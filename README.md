@@ -1,3 +1,4 @@
+//hello
 # Atom Tool Bar
 
 [![Travis CI](https://travis-ci.org/suda/tool-bar.svg?branch=master)](https://travis-ci.org/suda/tool-bar)
